@@ -10,7 +10,7 @@ const HeroSection = () => {
         </h1>
         <p className="mt-8 text-lg text-center text-neutral-500 max-w-4xl">
             When one door is closed, we help you open another one.
-            Hear your surroundings, if you can see them!
+            Hear your surroundings, if you can't see them!
         </p>
         <div className="flex justify-center my-10">
             <a href="#" className="bg-gradient-to-r from-orange-500 to-orange-800 py-3 px-4 mx-3 rounded-md">
